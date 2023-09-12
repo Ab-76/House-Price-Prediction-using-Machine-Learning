@@ -1,1 +1,1 @@
-This is an assignment of the course "Python Project for DataScience"
+This is an assignment for the course "Python Project for DataScience"
